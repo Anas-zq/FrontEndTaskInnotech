@@ -1,0 +1,24 @@
+
+.hPatient{
+  margin-right: 200px;
+}
+
+.buttonRecordAdd{
+  margin-bottom:10px;
+  margin-right: 20px;
+}
+.buttonDlete{
+  margin-left: 5px;
+}
+.tableDiv {
+  padding: 3%;
+}
+.colorValue{
+  color: blue;
+}
+.marginButtomClass{
+  margin-bottom: 4%;
+}
+.marginButtomClasspx{
+  margin-bottom: 4px;
+}
